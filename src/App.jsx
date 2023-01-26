@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>FUnker dette mon tro?</p>
+      <p>Oi</p>
     </div>
   )
 }
